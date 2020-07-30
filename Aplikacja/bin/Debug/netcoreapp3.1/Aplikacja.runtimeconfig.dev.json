@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\pzieba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\pzieba\\.nuget\\packages"
+    ]
+  }
+}

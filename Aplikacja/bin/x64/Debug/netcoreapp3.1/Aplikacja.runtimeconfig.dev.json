@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Piotrek\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Piotrek\\.nuget\\packages"
+    ]
+  }
+}
